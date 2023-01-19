@@ -21,7 +21,7 @@ const double CHECKING_INT_RATE_OVER_5000 = 0.05;
 const double CHECKING_HIGH_BALANCE = 5000.00;
 
 int main()
-{   
+{   /*
     // question1
     int time_seconds;
     cout << "input the elapsed time" << endl;
@@ -158,7 +158,7 @@ int main()
     }
     else
         cout << "Invalid account type" << endl;
-    
+    */
     // question5
     char letter;
     int counter = 0;
