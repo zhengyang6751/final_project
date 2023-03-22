@@ -118,5 +118,6 @@ int main()
     cout << que.front().getBookPrice() << endl;
     cout << que.back().getBookPrice() << endl;
     cout << que.size();
+    
     return 0;
 }
