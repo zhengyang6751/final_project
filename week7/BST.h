@@ -23,7 +23,8 @@ bool isEmpty() const;
 void inorderTraversal() const;
 void preorderTraversal() const;
 void postorderTraversal() const;
-        void destroy(nodeType* &p);
+void destroy(nodeType* &p);
+
 private:
 void inorder(nodeType *p) const;
 void preorder(nodeType *p) const;

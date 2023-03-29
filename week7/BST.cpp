@@ -26,6 +26,7 @@ current = current->rLink;
 }
 return found;
 }
+
 void BST::insert(const dateType insertItem)
 {
 nodeType *current; 
